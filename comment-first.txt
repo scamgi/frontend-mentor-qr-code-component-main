@@ -1,0 +1,14 @@
+Hi @scamgi,
+
+Nice Work !
+
+I think replacing <h3> with <h1> element will improve accessibility.
+
+Utilizing flexbox for centering the card would be better.
+
+Single container is sufficient for card elements.
+
+Hope these suggestions are helpful !
+
+Happy Coding !
+
